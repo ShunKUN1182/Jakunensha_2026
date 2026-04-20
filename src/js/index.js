@@ -45,14 +45,16 @@ const Songs = [
 
 // 参考用, 自由に使ってください
 // 不要な場合削除していただいて構いません。
-// OutputLists.innerHTML = `
-//     <li>
-//         <picture>
-//             <img src="img/no_img.png" alt="" />
-//         </picture>
-//         <div class="name_wrap">
-//             <h2>SongName</h2>
-//             <p>Artist</p>
-//         </div>
-//     </li >
-// `;
+OutputLists.innerHTML = `
+    <li>
+        <picture>
+            <img src="img/no_img.png" alt="" />
+        </picture>
+        <div class="name_wrap">
+            <h2>SongName</h2>
+            <p>Artist</p>
+        </div>
+    </li >
+`;
+
+// ここから下は自由に編集可
