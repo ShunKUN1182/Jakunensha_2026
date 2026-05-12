@@ -1,0 +1,14 @@
+div {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #000;
+    margin: 0 auto;
+    display: inline;
+}
+
+a {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #000;
+    display: block;
+}
